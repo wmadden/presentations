@@ -7,6 +7,8 @@ I'm going to tell you about a pattern I think is useful and underused.
 - **The Pattern** - *what's the pattern?*
 - **The Code** - *show me the code!*
 
+This talk is recursive: https://github.com/wmadden/presentations/blob/master/angularjs-talk.md
+
 ## Me / Intro / Klara
 
 My name's **Will Madden**, I'm the Head of Product at Klara ([w.madden@klara.com](mailto:w.madden@klara.com)).
