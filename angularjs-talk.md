@@ -90,3 +90,14 @@ link: function($scope, $element, $attrs) {
   // ...
 }
 ```
+
+The magic:
+
+```javascript
+$scope.$eval($attrs.fetchWhen, {
+  remainingDistance: remainingDistance,
+  containerHeight:   containerHeight
+});
+```
+
+It all happens in `angular.$parse`: https://docs.angularjs.org/api/ng/service/$parse
