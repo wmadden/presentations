@@ -45,6 +45,8 @@ Caller knows:
 - How long it'll take to fetch more items
 - When it's appropriate to begin fetching
 
+Demo: http://wmadden.github.io/cf-challenge/
+
 <iframe style="width: 100%; height: 300px;" src="http://wmadden.github.io/cf-challenge/"></iframe>
 
 ## The Pattern
