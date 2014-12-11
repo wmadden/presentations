@@ -18,7 +18,7 @@ Before that I wrote code :/ - specifically **Angular** (in CS) and **Ruby** (on 
 **Klara** is a service that lets doctors extend the same service they offer in their practice to their patients online.
 
 - Native iOS and Android apps **for patients**
-- A web client **for doctors** (using Bootstrap/Marionette)
+- A web client **for doctors** (using Backbone/Marionette)
 - API in Ruby (with a splash of Rails)
 
 We're looking for outstanding **JS and Ruby devs**.
